@@ -4,6 +4,6 @@ The problem is to train a model on very few data points and generalize this mode
 
 Dataset : https://www.kaggle.com/competitions/dont-overfit-ii
 
-Detailed Blog :  https://medium.com/@anirudhsr97/dont-over-fit-2-718dc320 2e95
+Detailed Blog :  https://medium.com/@anirudhsr97/dont-over-fit-2-718dc3202e95
 
 
